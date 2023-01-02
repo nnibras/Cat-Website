@@ -1,0 +1,82 @@
+.form
+{
+   background-color:aquamarine;
+   border-radius: 20px;
+   padding: 50px;
+   margin-top: 250px;
+   margin-bottom: 250px;
+   margin-left: 650px;
+   margin-right: 600px;
+   border-style:double;
+   text-align: center;
+
+}
+
+.formy
+{
+    background-color:aquamarine;
+    border-style:double;
+    border-radius: 20px;
+    text-align: center;
+    padding: 50px;
+    margin:50px;
+    font-size: 20px; 
+
+}
+
+.headerx
+{
+    text-align: center;
+    color: black; 
+    background-color:cadetblue; 
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url(../images/CAT\ HEADER.svg); 
+}
+
+.headery
+{
+    text-align: center;
+    color: black; 
+    background-color:cadetblue; 
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url(../images/CAT\ HEADER.svg); 
+}
+
+.cred
+{
+    margin:15px;
+    border-radius: 20px;
+}
+
+.btn
+{
+    border-radius: 20px;
+}
+
+p
+{
+    background-color:aquamarine;
+    border-style:double;
+    border-radius: 20px;
+    text-align: center;
+    padding: 50px;
+    margin:50px;
+    font-size: 20px; 
+}
+
+.ul
+{
+    background-color:aquamarine;
+    border-style:double;
+    border-radius: 20px;
+    padding: 50px;
+    margin:50px;
+    font-size: 20px; 
+    display: flex;
+    justify-content: center;
+
+}
